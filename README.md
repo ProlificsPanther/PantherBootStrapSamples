@@ -4,7 +4,7 @@
 * Each exercise will demonstrate the  use of Bootstrap with  a Panther Screen. It will include minimal Javascript coding (copy-paste)
 * Start with the screens in BeforeWorkshopScreens.lib.
 * The completed exercises are in CompleteWorkshop.lib
-* You will need the Panther Editor to be able to complete these exercises. In order to  run the screen, you will need to  configure Apache. 
+* You will need the Panther Editor  and  our database tables  (please request from support) to be able to complete these exercises. In order to  run the screen, you will need to  configure Apache. 
 * Watching the Video before  attempting  exercises is recommended.
  [Click Here to view the playlist](https://www.youtube.com/playlist?list=PLqs5lOxsEMieGw8XfyipFthG9ny_Z-l5t)
  
