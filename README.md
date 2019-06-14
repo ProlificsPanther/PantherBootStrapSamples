@@ -1,5 +1,3 @@
-# PantherBootStrapSamples
-
 # Instructions for workshop:
 
 * Each sample /exercise is in sequence. You will need to complete Exercise 1 to move on to Exercise 2. 
