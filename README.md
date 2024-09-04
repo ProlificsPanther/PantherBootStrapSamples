@@ -1,7 +1,7 @@
 # Instructions for workshop:
 
-* Each sample /exercise is in sequence. You will need to complete Exercise 1 to move on to Exercise 2. 
-* Each exercise will demonstrate the  use of Bootstrap with  a Panther Screen. It will include minimal Javascript coding (copy-paste)
+* Each sample or exercise is in sequence. You will need to complete Exercise 1 to move on to Exercise 2. 
+* Each exercise will demonstrate the use of Bootstrap with a Panther Screen. It will include minimal Javascript coding (copy-paste)
 * Start with the screens in BeforeWorkshopScreens.lib from Libraries.zip.
 * The completed exercises are in CompleteWorkshop.lib from Libraries.zip.
 * Get the html,css and jpl files from files.zip.
